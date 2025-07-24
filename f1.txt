@@ -5,3 +5,5 @@ Today is 24th July 2025.
 And I am dead.
 
 Hell no i cant die today.
+
+We are learning Git.
